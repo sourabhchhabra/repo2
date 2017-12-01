@@ -70,7 +70,7 @@ public class CountWater {
 			}
 		}
 		
-		System.out.println("The total amount of water collected = "+totalWater);
+		System.out.println("The total amount of water collected = " + totalWater);
 		
 		return totalWater;
 	}
